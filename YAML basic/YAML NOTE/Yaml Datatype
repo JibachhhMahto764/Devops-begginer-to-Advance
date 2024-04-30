@@ -1,0 +1,14 @@
+#cities:
+-delhi
+-kathmandu
+-mumbai
+-goa
+-pokhara
+
+  ---( this is use to differentiate between two document)
+
+  cities:[pokhara,mumbai,goa, kathmandu]
+---
+{mango:"yello fruit", age:21}
+
+...( document ended )
