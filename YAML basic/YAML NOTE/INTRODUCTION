@@ -1,3 +1,9 @@
+Introduction:-  Yet another markup language.
+or yaml ain't markup language( a recursive acronym )
+ data format used to exchange data. it is similar to XML and JSON
+
+
+
 DEMO: hello.yaml
  "apple":" I am a red sweet fruit"
- 2 : " This is my Roll Number"
+  2: " This is my Roll Number"
