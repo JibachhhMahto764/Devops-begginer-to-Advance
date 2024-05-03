@@ -1,7 +1,7 @@
 syntax:
-<!--
-    const <constname> <datatype> = <value>
--->
+
+    const (constname) (datatype) = (value)
+
 there are two type of constant.
 1. untyped conatant
    -> constant are untyped unleas they are explicity given a type at declaration
