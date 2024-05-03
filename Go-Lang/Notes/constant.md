@@ -1,5 +1,5 @@
-syntax
-    const <const name> <datatype> = <value>
+syntax:
+    const <constname> <datatype> = <value>
 
 there are two type of constant.
 1. untyped conatant
