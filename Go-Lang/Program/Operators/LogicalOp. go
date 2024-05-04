@@ -1,0 +1,25 @@
+package main
+
+import "fmt"
+
+func main() {
+    a := true
+    b := false
+
+    // Logical AND
+    fmt.Println("Logical AND:")
+    fmt.Println(a && a) // true
+    fmt.Println(a && b) // false
+    fmt.Println(b && b) // false
+
+    // Logical OR
+    fmt.Println("Logical OR:")
+    fmt.Println(a || a) // true
+    fmt.Println(a || b) // true
+    fmt.Println(b || b) // false
+
+    // Logical NOT
+    fmt.Println("Logical NOT:")
+    fmt.Println(!a) // false
+    fmt.Println(!b) // true
+}
