@@ -1,0 +1,6 @@
+In Go, logical operators are used to perform logical operations on boolean values. The logical operators available in Go are:
+&& (logical AND): Returns true if both operands are true.
+ 
+|| (logical OR): Returns true if at      least one of the operands is true.
+   
+! (logical NOT): Returns true if the operand is false, and vice versa.
