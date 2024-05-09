@@ -9,3 +9,16 @@ function syntax :-
                     func <function_name>(<params>)return_type>{
                     // block of code
                     }
+
+example :-
+            func addNumbera( a int, b int) int{ 
+            // body of the function
+            }
+
+            return keywords:- 
+
+                  func addNumbers(a int, b int)
+                  int{
+                  sum:= a+b
+                  return sum
+                  }
