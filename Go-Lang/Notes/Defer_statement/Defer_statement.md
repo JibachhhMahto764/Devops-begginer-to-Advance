@@ -1,0 +1,2 @@
+-> A defer statement delays the execution of a function until the surrounding function returns
+-> the deferred calls arguments are evaluated immediately, but the function call is not executed until the surrounding function returns
