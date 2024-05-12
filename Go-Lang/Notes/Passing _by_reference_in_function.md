@@ -1,0 +1,3 @@
+-> Go supports pointers,allowing you to pass references to values within your program
+-> In call reference/pointer, the address of the variable is passed into the function call as the actual parameter
+-> All the operations in the functions are performed on the value stored at the address of the actual parameters
