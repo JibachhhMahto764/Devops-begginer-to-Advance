@@ -5,12 +5,12 @@ docker run -d -p 8080:8080 docker.io/jenkins/jenkins:latest
 # third command
 docker ps
 
--> copy the container id
+-> Copy the container_ID
 # forth command 
 docker exec <container_id> /var/jenkins_home/secrets/initialAdminPassword
 
--> copy the password 
-# fifth commnad 
+-> Copy the password 
+# fifth command 
 local:8080
 
 paste the password
