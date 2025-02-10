@@ -1,13 +1,14 @@
-IN the Basic DevOps Prerequisite you have to learn the basics of these things.
+In the Basic DevOps Prerequisite, you have to learn the basics of these things.
 
-Linux basics 
-virtual box networking
-vagrant
-networking basics
-programming basics
-database basics
-git
-apache web server
-IPS and ports
-SSL & TLS basics
-yaml
+1. Linux basics 
+2. virtual box networking
+3. vagrant
+4. networking basics
+5. programming basics
+6. database basics
+7. git
+8. apache web server
+9. IPS and ports
+10. SSL & TLS basics
+11. yaml
+12.Web-development basics
